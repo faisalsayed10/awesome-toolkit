@@ -65,3 +65,4 @@
 - **[Rust Book](https://doc.rust-lang.org/book/ch00-00-introduction.html)** - The Rust Programming Language Book.
 - **[Rust by example](https://doc.rust-lang.org/stable/rust-by-example/)** - Learn rust by example.
 - **[Learn Vim](https://danielmiessler.com/study/vim/)** - Learn vim for the last time.
+- **[React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)** - Cheatsheets for experienced React developers getting started with TypeScript.
