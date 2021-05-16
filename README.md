@@ -14,3 +14,7 @@
 - **[Express Sub Domain](https://www.npmjs.com/package/express-subdomain)** - Create API routes on subdomains.
 - **[Next Connect](https://www.npmjs.com/package/next-connect)** - The smol method routing and middleware for Next.js.
 - **[Next API Middleware](https://www.npmjs.com/package/next-api-middleware)** - Minimal, clean, composable middleware patterns for Next.js.
+
+## Design
+- **[SVG Backgrounds](https://www.svgbackgrounds.com/)** - Create Customizable, Hi-Def, and Scalable Backgrounds.
+- **[Haikei](https://app.haikei.app/)** - Create Awesome SVG Backgrounds.
