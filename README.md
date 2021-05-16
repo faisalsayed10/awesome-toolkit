@@ -25,3 +25,6 @@
 - **[React Icons](https://react-icons.github.io/react-icons/)** - Awesome icons for React.
 - **[Font Awesome](https://fontawesome.com/icons?d=gallery&p=2)** - Fontawesome Icons.
 - **[Tabler Icons](https://tablericons.com/)** - Free and open-source icons designed with attention to detail to make your design stand out.
+- **[Flaticon](https://www.flaticon.com/)** - The largest database of free icons.
+- **[Simple Icons](https://simpleicons.org/)** - Free SVG icons for popular brands.
+
