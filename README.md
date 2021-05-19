@@ -55,6 +55,7 @@
 - **[Snazzy AI](https://app.snazzy.ai/browse)** - The easiest way to create content for your brand.
 - **[Slate](https://github.com/ianstormtaylor/slate)** - A completely customizable framework for building rich text editors.
 - **[Litestream](https://litestream.io/)** - Fully-replicated database with no pain and little cost.
+- **[PMND Market](https://market.pmnd.rs/)** - Free 3d models to use in your ThreeJS project.
 - **[Fly.io](fly.io)** - Deploy for free.
 - **[Railway](railway.app)** - Host Postgres in a click.
 - **[Deta](deta.sh)** - Free cloud with no limits.
