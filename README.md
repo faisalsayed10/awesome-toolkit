@@ -17,6 +17,7 @@
 - **[Next Connect](https://www.npmjs.com/package/next-connect)** - The smol method routing and middleware for Next.js.
 - **[Next API Middleware](https://www.npmjs.com/package/next-api-middleware)** - Minimal, clean, composable middleware patterns for Next.js.
 - **[Argon2](https://www.npmjs.com/package/argon2)** - Strong hashing library for Node.js
+- **[Boring Avatars](https://github.com/boringdesigners/boring-avatars)** - A JavaScript library for making avatars based on text.
 
 ## Design
 
