@@ -42,6 +42,7 @@
 - **[Feather Icons](https://feathericons.com/)** - Simply beautiful open source icons.
 - **[css.gg](https://css.gg/)** - Open-source CSS, SVG and Figma UI Icons.
 - **[Icons8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
+- **[Supercons](https://www.npmjs.com/package/supercons)** - Free cute icons for your React project.
 
 ## Resource Lists
 
