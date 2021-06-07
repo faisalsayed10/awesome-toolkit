@@ -70,3 +70,15 @@
 - **[Rust by example](https://doc.rust-lang.org/stable/rust-by-example/)** - Learn rust by example.
 - **[Learn Vim](https://danielmiessler.com/study/vim/)** - Learn vim for the last time.
 - **[React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)** - Cheatsheets for experienced React developers getting started with TypeScript.
+
+## Component Libraries
+
+- **[Chakra UI](https://chakra-ui.com/)** - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+- **[React Suite](https://rsuitejs.com/)** - A suite of React components, sensible UI design, and a friendly development experience.
+- **[Grommet](https://v2.grommet.io/)** - build responsive and accessible mobile-first projects for the web with an easy to use component library.
+- **[Prime React](https://primefaces.org/primereact/)** - Build better apps with React.
+- **[Ant Design](https://ant.design/)** - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
+- **[Material UI](https://material-ui.com/)** - React components for faster and easier web development.
+- **[Semantic UI](https://react.semantic-ui.com/)** - UI component library for React.
+- **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
+
