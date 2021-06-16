@@ -43,6 +43,7 @@
 - **[css.gg](https://css.gg/)** - Open-source CSS, SVG and Figma UI Icons.
 - **[Icons8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
 - **[Supercons](https://www.npmjs.com/package/supercons)** - Free cute icons for your React project.
+- **[IconFinder](https://www.iconfinder.com/)** - Search in over 5m+ icons and edit them within the browser!
 
 ## Resource Lists
 
@@ -62,6 +63,7 @@
 - **[Fly.io](fly.io)** - Deploy for free.
 - **[Railway](railway.app)** - Host Postgres in a click.
 - **[Deta](deta.sh)** - Free cloud with no limits.
+- **[AdminBro](https://adminbro.com/index.html)** - An auto-generated Admin panel for Node.js.
 
 ## Learning
 
@@ -81,4 +83,5 @@
 - **[Material UI](https://material-ui.com/)** - React components for faster and easier web development.
 - **[Semantic UI](https://react.semantic-ui.com/)** - UI component library for React.
 - **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
+- **[React Kawaii](https://react-kawaii.vercel.app/)** - Cute React SVG Components
 
