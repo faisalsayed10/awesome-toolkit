@@ -2,13 +2,6 @@
 
 > A collection of super awesome resources for future me!
 
-## Illustrations
-
-- **[undraw](https://undraw.co/)** - Open-source illustrations for any idea you can imagine and create.
-- **[free illustrations](https://freeillustrations.xyz/)** - Free to use illustrations.
-- **[Skribbl](https://weareskribbl.com/)** - Free illustrations for everyone.
-- **[Icons8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
-
 ## NPM Packages
 
 - **[Emoji Mart](https://www.npmjs.com/package/emoji-mart)** - Slack-like customizable emoji picker component for React.
@@ -18,7 +11,7 @@
 - **[Next API Middleware](https://www.npmjs.com/package/next-api-middleware)** - Minimal, clean, composable middleware patterns for Next.js.
 - **[Argon2](https://www.npmjs.com/package/argon2)** - Strong hashing library for Node.js
 - **[Boring Avatars](https://github.com/boringdesigners/boring-avatars)** - A JavaScript library for making avatars based on text.
-- **[React Spinkit](https://github.com/KyleAMathews/react-spinkit)** - A collection of awesome spinners.
+- **[Use Pusher](https://www.npmjs.com/package/@harelpls/use-pusher)** - Easy as React hooks that integrate with the pusher-js library.
 
 ## Design
 
@@ -30,6 +23,10 @@
 - **[Material UI Colors](https://www.materialui.co/colors)** - Material Design Colors.
 - **[Flat Colors](https://flatcolors.net/)** - The largest collection of flat colors.
 - **[Flat UI Colors](https://flatuicolors.com/)** - Flat UI color palettes.
+- **[undraw](https://undraw.co/)** - Open-source illustrations for any idea you can imagine and create.
+- **[free illustrations](https://freeillustrations.xyz/)** - Free to use illustrations.
+- **[Skribbl](https://weareskribbl.com/)** - Free illustrations for everyone.
+
 
 ## Icons
 
@@ -52,26 +49,17 @@
 - **[API List](https://apilist.fun/)** - Fun list of public APIs
 - **[Public APIs](https://public-apis.io/)** - A directory of public APIs
 - **[Vim Awesome](https://vimawesome.com/)** - Awesome Vim Plugins.
+- **[Frontend Toolkit](akshay.rocks/resources)** - Awesome resources for developers.
 
 ## Tools and Services
 
-- **[SVGOMG](https://jakearchibald.github.io/svgomg/)** - Awesome tool for SVGs.
 - **[Snazzy AI](https://app.snazzy.ai/browse)** - The easiest way to create content for your brand.
 - **[Slate](https://github.com/ianstormtaylor/slate)** - A completely customizable framework for building rich text editors.
-- **[Litestream](https://litestream.io/)** - Fully-replicated database with no pain and little cost.
 - **[PMND Market](https://market.pmnd.rs/)** - Free 3d models to use in your ThreeJS project.
 - **[Fly.io](fly.io)** - Deploy for free.
 - **[Railway](railway.app)** - Host Postgres in a click.
 - **[Deta](deta.sh)** - Free cloud with no limits.
 - **[AdminBro](https://adminbro.com/index.html)** - An auto-generated Admin panel for Node.js.
-
-## Learning
-
-- **[FreeCodeCamp](https://www.freecodecamp.org/learn/)** - Learn to code for free.
-- **[Rust Book](https://doc.rust-lang.org/book/ch00-00-introduction.html)** - The Rust Programming Language Book.
-- **[Rust by example](https://doc.rust-lang.org/stable/rust-by-example/)** - Learn rust by example.
-- **[Learn Vim](https://danielmiessler.com/study/vim/)** - Learn vim for the last time.
-- **[React Typescript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)** - Cheatsheets for experienced React developers getting started with TypeScript.
 
 ## Component Libraries
 
@@ -80,8 +68,10 @@
 - **[Grommet](https://v2.grommet.io/)** - build responsive and accessible mobile-first projects for the web with an easy to use component library.
 - **[Prime React](https://primefaces.org/primereact/)** - Build better apps with React.
 - **[Ant Design](https://ant.design/)** - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
-- **[Material UI](https://material-ui.com/)** - React components for faster and easier web development.
+- **[Geist UI](react.geist-ui.dev/)** - React implementation for styles originating from Vercel's design.
 - **[Semantic UI](https://react.semantic-ui.com/)** - UI component library for React.
 - **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
-- **[React Kawaii](https://react-kawaii.vercel.app/)** - Cute React SVG Components
-
+- **[Chakra Templates](https://chakra-templates.dev/)** - Chakra UI Component Templates.
+- **[Choc UI](https://choc-ui.tech/)** - Prebuilt Chakra UI Components.
+- **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community
+components using TailwindCSS
