@@ -27,7 +27,6 @@
 - **[free illustrations](https://freeillustrations.xyz/)** - Free to use illustrations.
 - **[Skribbl](https://weareskribbl.com/)** - Free illustrations for everyone.
 
-
 ## Icons
 
 - **[Heroicons](https://heroicons.com/)** - Beautiful hand-crafted SVG icons.
@@ -74,4 +73,4 @@
 - **[Chakra Templates](https://chakra-templates.dev/)** - Chakra UI Component Templates.
 - **[Choc UI](https://choc-ui.tech/)** - Prebuilt Chakra UI Components.
 - **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community
-components using TailwindCSS
+  components using TailwindCSS
