@@ -12,6 +12,7 @@
 - **[Argon2](https://www.npmjs.com/package/argon2)** - Strong hashing library for Node.js
 - **[Boring Avatars](https://github.com/boringdesigners/boring-avatars)** - A JavaScript library for making avatars based on text.
 - **[Use Pusher](https://www.npmjs.com/package/@harelpls/use-pusher)** - Easy as React hooks that integrate with the pusher-js library.
+- **[React Hot Toast](https://react-hot-toast.com/)** - Smoking hot React notifications.
 
 ## Design
 
@@ -26,6 +27,11 @@
 - **[undraw](https://undraw.co/)** - Open-source illustrations for any idea you can imagine and create.
 - **[free illustrations](https://freeillustrations.xyz/)** - Free to use illustrations.
 - **[Skribbl](https://weareskribbl.com/)** - Free illustrations for everyone.
+- **[UI Glass](https://ui.glass/generator/)** - Glassmorphism CSS Generator.
+- **[Mesh Gradients](https://www.meshgradients.design/)** - Hand-curated Mesh Gradient Collection.
+- **[Palx](https://palx.jxnblk.com/)** - Generate a full theming system with just a single color.
+- **[Themera](https://themera.vercel.app/)** - Create Chakra UI color schemes in seconds ⚡️
+- **[Colorsandfonts](https://www.colorsandfonts.com/)** - Color and typography for Web Developers.
 
 ## Icons
 
@@ -69,5 +75,15 @@
 - **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
 - **[Chakra Templates](https://chakra-templates.dev/)** - Chakra UI Component Templates.
 - **[Choc UI](https://choc-ui.tech/)** - Prebuilt Chakra UI Components.
-- **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community
-  components using TailwindCSS
+
+## Tailwind Resources
+
+- **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community components using TailwindCSS
+- **[WickedBlocks](https://wickedblocks.dev/)** - Ready Made Tailwind CSS blocks, for your next project.
+- **[Tailblocks](https://tailblocks.cc/)** - Tailwind CSS blocks and components.
+- **[Tail-kit](https://www.tailwind-kit.com/)** - Components and templates for Tailwind CSS 2.0.
+- **[Tailwind Toolbox](https://www.tailwindtoolbox.com/)** - Free Tailwind CSS Templates, Components and Resources.
+- **[Tailwind Toolbox](https://www.tailwindtoolbox.com/)** - Free Tailwind CSS Templates, Components and Resources.
+- **[Meraki UI](https://merakiui.com/)** - Beautiful Tailwind CSS components based on Flexbox & CSS Grid with elegant Dark Mode.
+- **[Tailwind Palette](https://tailwind-color-palette.netlify.app/)** - Generate shades and tints for color with its Tailwind CSS config.
+- **[TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons)** - A unique collection of Copy & Paste TailwindCSS buttons 🙌
