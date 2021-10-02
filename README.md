@@ -52,7 +52,8 @@
 - **[Dev Resources](https://devresourc.es/)** - List of resources for developers.
 - **[Free for developers](https://free-for.dev/#/)** - List of free resources for developers.
 - **[API List](https://apilist.fun/)** - Fun list of public APIs
-- **[Public APIs](https://public-apis.io/)** - A directory of public APIs
+- **[Public APIs](https://public-apis.io/)** - A directory of public APIs.
+- **[Public APIs](https://github.com/public-apis/public-apis)** - A large list of public APIs.
 - **[Vim Awesome](https://vimawesome.com/)** - Awesome Vim Plugins.
 - **[Frontend Toolkit](akshay.rocks/resources)** - Awesome resources for developers.
 
