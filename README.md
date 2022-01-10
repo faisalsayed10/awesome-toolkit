@@ -5,14 +5,8 @@
 ## NPM Packages
 
 - **[Emoji Mart](https://www.npmjs.com/package/emoji-mart)** - Slack-like customizable emoji picker component for React.
-- **[Express Rate Limit](https://www.npmjs.com/package/express-rate-limit)** - Basic rate-limiting middleware for Express.
 - **[Express Sub Domain](https://www.npmjs.com/package/express-subdomain)** - Create API routes on subdomains.
-- **[Next Connect](https://www.npmjs.com/package/next-connect)** - The smol method routing and middleware for Next.js.
-- **[Next API Middleware](https://www.npmjs.com/package/next-api-middleware)** - Minimal, clean, composable middleware patterns for Next.js.
-- **[Argon2](https://www.npmjs.com/package/argon2)** - Strong hashing library for Node.js
-- **[Boring Avatars](https://github.com/boringdesigners/boring-avatars)** - A JavaScript library for making avatars based on text.
 - **[Use Pusher](https://www.npmjs.com/package/@harelpls/use-pusher)** - Easy as React hooks that integrate with the pusher-js library.
-- **[React Hot Toast](https://react-hot-toast.com/)** - Smoking hot React notifications.
 
 ## Design
 
@@ -29,9 +23,6 @@
 - **[Skribbl](https://weareskribbl.com/)** - Free illustrations for everyone.
 - **[UI Glass](https://ui.glass/generator/)** - Glassmorphism CSS Generator.
 - **[Mesh Gradients](https://www.meshgradients.design/)** - Hand-curated Mesh Gradient Collection.
-- **[Palx](https://palx.jxnblk.com/)** - Generate a full theming system with just a single color.
-- **[Themera](https://themera.vercel.app/)** - Create Chakra UI color schemes in seconds ⚡️
-- **[Colorsandfonts](https://www.colorsandfonts.com/)** - Color and typography for Web Developers.
 
 ## Icons
 
@@ -54,31 +45,18 @@
 - **[API List](https://apilist.fun/)** - Fun list of public APIs
 - **[Public APIs](https://public-apis.io/)** - A directory of public APIs.
 - **[Public APIs](https://github.com/public-apis/public-apis)** - A large list of public APIs.
-- **[Vim Awesome](https://vimawesome.com/)** - Awesome Vim Plugins.
 - **[Frontend Toolkit](akshay.rocks/resources)** - Awesome resources for developers.
 
 ## Tools and Services
 
 - **[Snazzy AI](https://app.snazzy.ai/browse)** - The easiest way to create content for your brand.
-- **[Slate](https://github.com/ianstormtaylor/slate)** - A completely customizable framework for building rich text editors.
 - **[PMND Market](https://market.pmnd.rs/)** - Free 3d models to use in your ThreeJS project.
-- **[AdminBro](https://adminbro.com/index.html)** - An auto-generated Admin panel for Node.js.
 
-## Component Libraries
+## UI Resources
 
-- **[Chakra UI](https://chakra-ui.com/)** - Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
-- **[React Suite](https://rsuitejs.com/)** - A suite of React components, sensible UI design, and a friendly development experience.
-- **[Grommet](https://v2.grommet.io/)** - build responsive and accessible mobile-first projects for the web with an easy to use component library.
-- **[Prime React](https://primefaces.org/primereact/)** - Build better apps with React.
-- **[Ant Design](https://ant.design/)** - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
-- **[Geist UI](react.geist-ui.dev/)** - React implementation for styles originating from Vercel's design.
-- **[Semantic UI](https://react.semantic-ui.com/)** - UI component library for React.
 - **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
 - **[Chakra Templates](https://chakra-templates.dev/)** - Chakra UI Component Templates.
 - **[Choc UI](https://choc-ui.tech/)** - Prebuilt Chakra UI Components.
-
-## Tailwind Resources
-
 - **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community components using TailwindCSS
 - **[WickedBlocks](https://wickedblocks.dev/)** - Ready Made Tailwind CSS blocks, for your next project.
 - **[Tailblocks](https://tailblocks.cc/)** - Tailwind CSS blocks and components.
