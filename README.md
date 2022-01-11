@@ -56,13 +56,12 @@
 
 - **[Daisy UI](https://daisyui.com/)** - Tailwind CSS Components for React.
 - **[Chakra Templates](https://chakra-templates.dev/)** - Chakra UI Component Templates.
+- **[Meraki UI](https://merakiui.com/)** - Beautiful Tailwind CSS components based on Flexbox & CSS Grid with elegant Dark Mode.
 - **[Choc UI](https://choc-ui.tech/)** - Prebuilt Chakra UI Components.
 - **[Tailwind Components](https://tailwindcomponents.com/)** - A free repository for community components using TailwindCSS
 - **[WickedBlocks](https://wickedblocks.dev/)** - Ready Made Tailwind CSS blocks, for your next project.
 - **[Tailblocks](https://tailblocks.cc/)** - Tailwind CSS blocks and components.
 - **[Tail-kit](https://www.tailwind-kit.com/)** - Components and templates for Tailwind CSS 2.0.
 - **[Tailwind Toolbox](https://www.tailwindtoolbox.com/)** - Free Tailwind CSS Templates, Components and Resources.
-- **[Tailwind Toolbox](https://www.tailwindtoolbox.com/)** - Free Tailwind CSS Templates, Components and Resources.
-- **[Meraki UI](https://merakiui.com/)** - Beautiful Tailwind CSS components based on Flexbox & CSS Grid with elegant Dark Mode.
 - **[Tailwind Palette](https://tailwind-color-palette.netlify.app/)** - Generate shades and tints for color with its Tailwind CSS config.
 - **[TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons)** - A unique collection of Copy & Paste TailwindCSS buttons 🙌
